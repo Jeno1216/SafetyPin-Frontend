@@ -1,0 +1,26 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.folium-map{
+    height: 100vh !important;
+}
+
+.result:hover {
+    color: white;
+    background-color: #0d6efd !important;
+
+  }
+  
+  .result:hover a {
+    color: white;
+  }
+  .perfect-circle {
+    width: 30px; /* Adjust the size as needed */
+    height: 30px; /* Adjust the size as needed */
+    border-radius: 50%; /* Makes the element a circle */
+  }
+
+.gmaps{
+    transition: .3s;
+}
+  
