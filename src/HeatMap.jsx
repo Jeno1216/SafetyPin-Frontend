@@ -70,9 +70,6 @@ function HeatMap() {
         <div dangerouslySetInnerHTML={{ __html: mapHtml }} />
       </div>
 
-
-
-
         <div className="d-lg-flex shadow d-md-flex py-4 px-3 d-sm-flex d-none flex-column gap-2 col-3 col-md-4 col-sm-5 col-12" style={{ borderRadius: '0 10px 10px 0', backgroundColor: 'white', position: 'absolute', top: '10px', left: '0', zIndex: 999, fontSize: '14px'}}>
             <div className='border text-start'>
                 <h4>Iloilo City Crime Visualization</h4>
